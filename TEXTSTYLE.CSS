@@ -1,0 +1,57 @@
+#text1{
+    border: 1px solid red;
+    color: sienna;
+    text-align: center;
+}
+
+#text2{
+    border: 1px solid blue;
+    text-align:justify;
+    margin: 20px;
+    
+}
+
+#text3{
+    border: brown solid 1px;
+    font-family:cursive;
+
+}
+img{
+    
+    vertical-align:top;
+}
+
+#text4{
+    margin: 20px ;
+    border: 1px solid black;
+    text-decoration: underline;
+
+}
+
+#text5{
+    border: 1px solid yellow;
+    text-transform: uppercase;
+    line-height: 35px;
+}
+#text6{
+    margin: 20px;
+    border: 1px solid blue;
+    text-indent: 50px;
+    letter-spacing: 3px;
+}
+
+#text7{
+    border: 1px solid grey;
+    white-space: pre;
+}
+
+#text8{
+    margin: 20px;
+    border: 1px solid gray;
+    font-size: 50px;
+    text-shadow: 5px 10px 5px indigo;
+}
+#text9{
+    border: 1px solid green;
+    writing-mode: vertical-rl;
+}

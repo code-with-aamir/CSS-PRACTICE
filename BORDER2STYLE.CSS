@@ -1,0 +1,29 @@
+#border1
+{
+    border-style: solid;
+    border-color: blueviolet;
+    border-width: 5px;
+}
+
+#border2
+{
+    border-style:inset;
+    border-color:darkred;
+    border-width: 10px;
+}
+
+#border3
+{
+    border-style: dotted;
+    border-color: firebrick;
+    border-radius: 10px;
+}
+
+#border4
+{
+
+    border-style:double;
+    border-top-left-radius: 10px;
+    border-color: indigo;
+
+}

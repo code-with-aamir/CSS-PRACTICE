@@ -1,0 +1,15 @@
+#pad
+{
+     border: solid;
+
+    /*padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px; */
+
+    /* Padding short cut code below */
+
+    padding: 50px 30px 40px 80px;
+    
+
+
+}

@@ -1,0 +1,24 @@
+@font-face {
+    font-family: myfont;
+    src: url(fonts/ArsenicaTrial-BoldItalic.ttf);
+    
+}
+@font-face {
+    font-family: myfont2;
+    src: url(fonts/ArsenicaTrial-Light.ttf);
+}
+
+h1{
+
+    font-family:"myfont";
+
+
+
+}
+
+p{
+    /* font-family: 'Dancing Script', cursive;
+    font-size: 30px; */
+    font-family: "myfont2";
+
+}

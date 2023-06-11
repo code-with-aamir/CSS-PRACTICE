@@ -1,0 +1,11 @@
+div{
+    border: 2px solid red;
+    margin: 100px;
+    background-color: brown;
+    padding: 10px;
+    box-shadow: 10px 10px 5px limegreen ;
+}
+p{
+    font-family: cursive;
+    color: white;
+}

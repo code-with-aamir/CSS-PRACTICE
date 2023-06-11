@@ -1,0 +1,11 @@
+div{
+    border: 2px solid black;
+     cursor: pointer;  
+    /* cursor: progress; */
+    /* cursor: row-resize; */
+    /* cursor: s-resize; */
+    /* cursor: sw-resize; */
+    /* cursor: text; */
+    /* cursor: zoom-in; */
+     /* cursor: zoom-out;  */
+}

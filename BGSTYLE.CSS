@@ -1,0 +1,17 @@
+/*#bg
+{
+     background-color: blueviolet; 
+}
+body
+{
+    background-color: brown;
+}*/
+
+#bg
+{
+background-image: url(images/imagemap.jpg);
+background-repeat: no-repeat;
+background-position:left;
+background-size: 50% 50%;
+background-attachment: fixed;
+}
